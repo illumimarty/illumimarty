@@ -1,8 +1,9 @@
-### Why hello there, I'm Marthen 🙋🏽‍♂️ 
+### Why hello there, I'm Marthen :man-raising-hand: 
 
 
 
-- 🔭 I’m currently honing my skills on SwiftUI.
+- 🔭 I’m currently working on my portfolio and a cool app 😋. 
+- 🌱 I’m currently learning more about SwiftUI.
 - 👯 I’m looking to collaborate on iOS development and design.
 - 💬 Ask me about drum corps, classical music, or Back To The Future.
 - 📫 How to reach me: [mnodado@ucmerced.edu](mailto:mnodado@ucmerced.edu)
